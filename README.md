@@ -1,4 +1,4 @@
-Superstore Sales & Profitability Analysis
+**Superstore Sales & Profitability Analysis**
 
 An exploratory data analysis of ~10,000 retail transactions, focused on identifying where profit is actually being created or destroyed across discounting, regions, customer segments and order size — and translating each finding into a concrete business recommendation.
 
